@@ -17,6 +17,7 @@ namespace CommandAPI
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            
             // Registers services to enable the use of "Controllers" throughout our application
             services.AddControllers();
             // Applying Dependency Injection
