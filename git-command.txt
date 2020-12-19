@@ -17,4 +17,4 @@ git push -u origin main
 ## How to add, commint and push
 git add .
 git commit -m “Added Command Model to API Project”
-git push origin master
+git push origin main
